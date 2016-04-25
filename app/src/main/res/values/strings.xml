@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="choice_one">True</string>
+    <string name="choice_two">False</string>
+    <string name="next">next</string>
+    <string name="message">Congradulations!</string>
+    <string name="results">Your results are: </string>
+    <string name="retry">Play Another?</string>
+</resources>
